@@ -1,0 +1,28 @@
+{
+  "name": "newbackend",
+  "version": "1.0.0",
+  "description": "new app to deploy",
+  "keywords": [
+    "backend",
+    "new"
+  ],
+  "homepage": "https://github.com/kulwinderkour/Backend-Js#readme",
+  "bugs": {
+    "url": "https://github.com/kulwinderkour/Backend-Js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulwinderkour/Backend-Js.git"
+  },
+  "license": "ISC",
+  "author": "Kulwinder kour",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
